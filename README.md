@@ -1,5 +1,5 @@
 # Serene-space : [Video link](https://drive.google.com/file/d/1XyCNINAPf35ov1mDbaBnwnol73E73Vf1/view?usp=sharing)
-## Front end project: [Website link](https://drive.google.com/file/d/1XyCNINAPf35ov1mDbaBnwnol73E73Vf1/view?usp=sharing) ##
+## Front end project: [Website link](https://stifffall60.qoom.space/~/Hackathon) ##
 Serene space is a web application made using HTML, CSS and JavaScript<br>
 The main idea behind this website is to compile some well researched resources, websites and NGO's working towards mental health, its cure, and to make it vocal on a global level.<br><br>
 <b>Target audience -</b><br>
